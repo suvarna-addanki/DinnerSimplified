@@ -34,7 +34,7 @@ function Footer() {
           <p>Email us</p>
         </Col>
       </Row>
-      <Row className='bg-success text-center text-white fw-bold p-2'>
+      <Row className='bg-primary text-center text-white fw-bold p-2'>
         <Col>
           <p>Copyright @2022</p>
         </Col>

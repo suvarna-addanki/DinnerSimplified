@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Button, Card, Modal } from 'react-bootstrap'
-import ShowRecipe from './ShowRecipe';
+
 
 function RecipeCard({recipe}) {
   const [show, setShow] = useState(false);
