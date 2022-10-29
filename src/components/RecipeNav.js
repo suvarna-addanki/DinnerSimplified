@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 function RecipeNav() {
   return (
     
-    <Nav className="bg-success text-white "as="ul">
+    <Nav className="bg-primary text-white "as="ul">
     <p className='text-black fw-bold navbar-brand pt-2 me-auto fs-3 fst-italic'>
       DinnerSimplified
     </p>

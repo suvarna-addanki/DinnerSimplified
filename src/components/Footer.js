@@ -6,8 +6,8 @@ function Footer() {
     <Container fluid>
       <Row>
         <Col xs={12} md={4}>
-          <p className='fs-3 fw-bold text-success pt-3 px-5'>Food4Thought</p>
-          <p className=' px-5'>DinnerSimplified is an application <br/> used to find variety of famous food recipes <br/> from all around the world.</p>
+          <p className='fs-3 fw-bold text-success pt-3 px-5'>DinnerSimplified</p>
+          <p className=' px-5'>DinnerSimplified is an application <br/> for finding variety of famous food recipes <br/> from all around the world.</p>
         </Col>
         <Col xs={6} md={2} className='p-4'>
           <p className='fw-bold fs-4'>About</p>

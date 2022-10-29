@@ -33,6 +33,7 @@ function RecipeCard({recipe}) {
     <Modal.Body>
         <p>
           {details.strInstructions}
+          {/* {details.strtags} */}
           {/* <Button  onClick={showrecipe} variant="success">Get Recipe</Button>
           {<ShowRecipe/>} */}
         </p>

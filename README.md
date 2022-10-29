@@ -1,8 +1,9 @@
 
 # DinnerSimplified
-An application with huge collection of recipes to help the user on reducing the thinking process of what to cook and how to cook with one click.
+An application with huge collection of recipes to help the user on reducing the thinking process of what to cook and how to cook with just one click.
 
-# App Link
+# Live Link
+https://zippy-hummingbird-152a40.netlify.app/
 
 # Technologies used
 - React

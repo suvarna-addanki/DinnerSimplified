@@ -16,7 +16,7 @@ function Home() {
           Thinking about<br/> what to cook <br/> and how to <br/>cook it?
          </p> 
          <p className='text-center fs-3'>
-            Worry no more we got you
+            Dont worry, we got you!
          </p> 
         <button onClick={() => {navigate ('/recipes')} }  type="button" className="btn btn-success mt-3">Get Started</button> 
         </div>

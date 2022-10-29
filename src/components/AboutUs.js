@@ -10,10 +10,10 @@ function AboutUs() {
       <Container id="about">
         <Row>
           <Col xs={12} md={6}className='p-5'>
-            <p className='fs-1 text-success fw-bold m-3' >
+            <p className='fs-1 text-primary fw-bold m-3' >
               ABOUT US
             </p>
-            <p className='p-3'>
+            <p className='p-5'>
               DinnerSimplified is here to reduce the thinking process of what to cook 
               and how to cook it.With recipes from all over the world,the perfect meal 
               is just a click away.<br/>We are here to help you make those delicious 
@@ -23,10 +23,10 @@ function AboutUs() {
           <Col xs={12} md={6}>
             <Row>
               <Col>
-              <img  className='img-fluid mt-3' src={image5} alt="ima"/>            
+              <img  className='img-fluid mt-5' src={image5} alt="ima"/>            
               </Col>
               <Col>
-                <img  className='img-fluid mt-3' src={image2} alt="ima"/> 
+                <img  className='img-fluid mt-5' src={image2} alt="ima"/> 
               </Col>
             </Row>
             <Row>
