@@ -15,7 +15,7 @@ function AboutUs() {
             </p>
             <p className='p-5'>
               DinnerSimplified is here to reduce the thinking process of what to cook 
-              and how to cook it.With recipes from all over the world,the perfect meal 
+              and how to cook it.With recipes from all over the world,the perfect meal recipe
               is just a click away.<br/>We are here to help you make those delicious 
               meals with very little stress.
             </p>
