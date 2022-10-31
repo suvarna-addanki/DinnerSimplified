@@ -16,8 +16,6 @@ https://zippy-hummingbird-152a40.netlify.app/
 
 - MealDB API
 
-- Axios
-
 - react-router-dom
 
 # Key learnings

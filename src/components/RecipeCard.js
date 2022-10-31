@@ -8,8 +8,7 @@ function RecipeCard({recipe}) {
 
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
-  //const showrecipe = () => {<ShowRecipe />}
-
+  
   useEffect(() => {
     fetch(`https://www.themealdb.com/api/json/v1/1/lookup.php?i=${recipe.idMeal}`)
       .then((r) => r.json())
@@ -33,9 +32,7 @@ function RecipeCard({recipe}) {
     <Modal.Body>
         <p>
           {details.strInstructions}
-          {/* {details.strtags} */}
-          {/* <Button  onClick={showrecipe} variant="success">Get Recipe</Button>
-          {<ShowRecipe/>} */}
+          
         </p>
       </Modal.Body>
  
