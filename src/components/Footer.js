@@ -35,11 +35,7 @@ function Footer() {
         </Col>
       </Row>
       <p>Copyright DS@2022</p>
-      {/* <Row className='bg-primary text-center text-white fw-bold p-2'>
-        <Col>
-          <p>Copyright @2022</p>
-        </Col>
-      </Row> */}
+      
     </Container>
   )
 }

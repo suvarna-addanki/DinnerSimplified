@@ -14,7 +14,6 @@ const NavBar = () => {
       <Link className='m-3 text-white fw-bold' to="/" > Home </Link>
       <AnchorLink className='m-3 text-white fw-bold' href='#about'> About us</AnchorLink>
       <Link className='m-3 text-white fw-bold' to="/recipes" >Our picks</Link>
-      {/* <Link className='m-3 text-white fw-bold' to="/categories" >Categories</Link> */}
       
     </Nav>
   )
